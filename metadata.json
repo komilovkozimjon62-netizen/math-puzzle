@@ -1,0 +1,5 @@
+{
+  "name": "Math Puzzle",
+  "description": "A logic game to test thinking speed and calculation skills by merging numbered blocks against the clock. Combine identical numbers to create larger ones, earn points, and extend your time. The goal is to achieve the highest score possible before the timer runs out.",
+  "requestFramePermissions": []
+}
