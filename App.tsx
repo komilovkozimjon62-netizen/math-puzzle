@@ -106,6 +106,7 @@ const App: React.FC = () => {
   }, [theme]);
 
   const toggleTheme = () => {
+    playSound(SoundType.UIClick);
     setTheme(prevTheme => (prevTheme === 'light' ? 'dark' : 'light'));
   };
 
